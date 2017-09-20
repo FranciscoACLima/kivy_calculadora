@@ -6,8 +6,11 @@ Este pequeno aplicativo foi desenvolvido usando como base o curso "Python para A
 O objetivo deste projeto é apresentar um exemplo prático de um aplicativo com interface construída com a biblioteca Kivy (https://kivy.org/#home).
 
 O Cláudio tem alguns artigos sobre Kivy no seu blog:
+
 http://excript.com/python/kivy.html
+
 http://excript.com/python/instalacao-kivy-ubuntu.html
+
 http://excript.com/python/instalacao-kivy-mac.html
 
 Vale a pena dar uma passada no site.
